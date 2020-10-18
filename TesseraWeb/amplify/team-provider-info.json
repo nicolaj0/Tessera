@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tessera-dev-191529-authRole",
+            "UnauthRoleArn": "arn:aws:iam::602664133335:role/amplify-tessera-dev-191529-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::602664133335:role/amplify-tessera-dev-191529-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-tessera-dev-191529-deployment",
+            "UnauthRoleName": "amplify-tessera-dev-191529-unauthRole",
+            "StackName": "amplify-tessera-dev-191529",
+            "StackId": "arn:aws:cloudformation:eu-west-2:602664133335:stack/amplify-tessera-dev-191529/5ae37210-109c-11eb-a070-020a477b9a30",
+            "AmplifyAppId": "d1rehyygcpr09s"
+        },
+        "categories": {
+            "auth": {
+                "tessera82e93799": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1rehyygcpr09s",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
